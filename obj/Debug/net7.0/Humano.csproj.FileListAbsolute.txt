@@ -1,0 +1,15 @@
+C:\Users\david\OneDrive\Escritorio\csharp console\Humano\obj\Debug\net7.0\Humano.csproj.AssemblyReference.cache
+C:\Users\david\OneDrive\Escritorio\csharp console\Humano\obj\Debug\net7.0\Humano.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\OneDrive\Escritorio\csharp console\Humano\obj\Debug\net7.0\Humano.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\Escritorio\csharp console\Humano\obj\Debug\net7.0\Humano.AssemblyInfo.cs
+C:\Users\david\OneDrive\Escritorio\csharp console\Humano\obj\Debug\net7.0\Humano.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Escritorio\csharp console\Humano\bin\Debug\net7.0\Humano.exe
+C:\Users\david\OneDrive\Escritorio\csharp console\Humano\bin\Debug\net7.0\Humano.deps.json
+C:\Users\david\OneDrive\Escritorio\csharp console\Humano\bin\Debug\net7.0\Humano.runtimeconfig.json
+C:\Users\david\OneDrive\Escritorio\csharp console\Humano\bin\Debug\net7.0\Humano.dll
+C:\Users\david\OneDrive\Escritorio\csharp console\Humano\bin\Debug\net7.0\Humano.pdb
+C:\Users\david\OneDrive\Escritorio\csharp console\Humano\obj\Debug\net7.0\Humano.dll
+C:\Users\david\OneDrive\Escritorio\csharp console\Humano\obj\Debug\net7.0\refint\Humano.dll
+C:\Users\david\OneDrive\Escritorio\csharp console\Humano\obj\Debug\net7.0\Humano.pdb
+C:\Users\david\OneDrive\Escritorio\csharp console\Humano\obj\Debug\net7.0\Humano.genruntimeconfig.cache
+C:\Users\david\OneDrive\Escritorio\csharp console\Humano\obj\Debug\net7.0\ref\Humano.dll
